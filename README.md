@@ -1,8 +1,8 @@
-# Docker-Linux-Tests
+# Docker Linux Tests
 
 Boot any image and run a shell script in a single command.
 
-Stick your script in `run.sh`, then boot with `./boot.sh image port1,port2,...`.
+Stick your script in `run.sh`, then boot with `./boot.sh image port1,port2,...`
 
 Examples:
 ```
