@@ -13,10 +13,10 @@ Ports publish to the same number on the host. Ranges are supported, e.g `5000-50
 
 Examples:
 ```
-./boot.sh ubuntu:latest 80,443
-```
-```
 ./boot.sh debian:jessie
+```
+```
+./boot.sh ubuntu:latest 80,443
 ```
 ```
 ./boot.sh alpine:3.7 5000-5010
